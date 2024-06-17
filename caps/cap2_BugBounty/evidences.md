@@ -69,4 +69,3 @@ For instance, **%2e%2e%2f** represents **../** in URL-encoded form.
 Here, **..%/2fsecret.txt** attempts to navigate up one directory from the current location and then access a file named secret.txt.
 
 This exposes hidden data out to plain sight.
-
